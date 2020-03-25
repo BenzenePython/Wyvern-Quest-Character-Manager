@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="Org.WyvernQuest.XML.Schema">
+<xs:element name="Character">
+	<xs:complexType>
+		<xs:sequence>
+			<xs:element name="charName" type="xs:string"/>
+			<xs:element name="charRace" type="xs:string"/>
+			<xs:element name="charClass" type="xs:string"/>
+			<xs:element name="charLevel" type="xs:positiveInteger"/>
+			<xs:element name="charExp">
+				<xs:complexType>
+					<xs:sequence>
+						<xs:element name="xpToLvl" type="xs:positiveInteger"/>
+						<xs:element name="xpPool" type="xs:positiveInteger"/>
+					</xs:sequence>
+				</xs:complexType>
+			</xs:element>
+			<xs:element name="charSpecs">
+				<xs:complexType>
+					<xs:sequence>
+						<xs:element name="Specialty" type="xs:string"/>
+					</xs:sequence>
+				</xs:complexType>
+			</xs:element>
+		</xs:sequence>
+	</xs:complexType>
+</xs:schema>
