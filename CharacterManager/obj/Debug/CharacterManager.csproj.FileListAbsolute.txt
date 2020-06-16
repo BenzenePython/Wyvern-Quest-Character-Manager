@@ -1,0 +1,15 @@
+C:\Users\baletzler\Documents\GitHub\Wyvern-Quest-Character-Manager\CharacterManager\bin\Debug\CharacterManager.exe.config
+C:\Users\baletzler\Documents\GitHub\Wyvern-Quest-Character-Manager\CharacterManager\bin\Debug\CharacterManager.exe
+C:\Users\baletzler\Documents\GitHub\Wyvern-Quest-Character-Manager\CharacterManager\bin\Debug\CharacterManager.pdb
+C:\Users\baletzler\Documents\GitHub\Wyvern-Quest-Character-Manager\CharacterManager\obj\Debug\CharacterManager.csprojAssemblyReference.cache
+C:\Users\baletzler\Documents\GitHub\Wyvern-Quest-Character-Manager\CharacterManager\obj\Debug\App.g.cs
+C:\Users\baletzler\Documents\GitHub\Wyvern-Quest-Character-Manager\CharacterManager\obj\Debug\CharacterManager_MarkupCompile.cache
+C:\Users\baletzler\Documents\GitHub\Wyvern-Quest-Character-Manager\CharacterManager\obj\Debug\CharacterManager_MarkupCompile.lref
+C:\Users\baletzler\Documents\GitHub\Wyvern-Quest-Character-Manager\CharacterManager\obj\Debug\CharacterManager.g.resources
+C:\Users\baletzler\Documents\GitHub\Wyvern-Quest-Character-Manager\CharacterManager\obj\Debug\CharacterManager.Properties.Resources.resources
+C:\Users\baletzler\Documents\GitHub\Wyvern-Quest-Character-Manager\CharacterManager\obj\Debug\CharacterManager.csproj.GenerateResource.cache
+C:\Users\baletzler\Documents\GitHub\Wyvern-Quest-Character-Manager\CharacterManager\obj\Debug\CharacterManager.csproj.CoreCompileInputs.cache
+C:\Users\baletzler\Documents\GitHub\Wyvern-Quest-Character-Manager\CharacterManager\obj\Debug\CharacterManager.exe
+C:\Users\baletzler\Documents\GitHub\Wyvern-Quest-Character-Manager\CharacterManager\obj\Debug\CharacterManager.pdb
+C:\Users\baletzler\Documents\GitHub\Wyvern-Quest-Character-Manager\CharacterManager\obj\Debug\LoadWindow.g.cs
+C:\Users\baletzler\Documents\GitHub\Wyvern-Quest-Character-Manager\CharacterManager\obj\Debug\LoadWindow.baml
