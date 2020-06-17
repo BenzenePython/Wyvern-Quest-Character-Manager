@@ -1,0 +1,13 @@
+C:\Users\baletzler\Documents\GitHub\Wyvern-Quest-Character-Manager\characterXMLexporter\obj\Debug\netcoreapp3.1\characterXMLexporter.csprojAssemblyReference.cache
+C:\Users\baletzler\Documents\GitHub\Wyvern-Quest-Character-Manager\characterXMLexporter\obj\Debug\netcoreapp3.1\characterXMLexporter.AssemblyInfoInputs.cache
+C:\Users\baletzler\Documents\GitHub\Wyvern-Quest-Character-Manager\characterXMLexporter\obj\Debug\netcoreapp3.1\characterXMLexporter.AssemblyInfo.cs
+C:\Users\baletzler\Documents\GitHub\Wyvern-Quest-Character-Manager\characterXMLexporter\obj\Debug\netcoreapp3.1\characterXMLexporter.csproj.CoreCompileInputs.cache
+C:\Users\baletzler\Documents\GitHub\Wyvern-Quest-Character-Manager\characterXMLexporter\bin\Debug\netcoreapp3.1\characterXMLexporter.exe
+C:\Users\baletzler\Documents\GitHub\Wyvern-Quest-Character-Manager\characterXMLexporter\bin\Debug\netcoreapp3.1\characterXMLexporter.deps.json
+C:\Users\baletzler\Documents\GitHub\Wyvern-Quest-Character-Manager\characterXMLexporter\bin\Debug\netcoreapp3.1\characterXMLexporter.runtimeconfig.json
+C:\Users\baletzler\Documents\GitHub\Wyvern-Quest-Character-Manager\characterXMLexporter\bin\Debug\netcoreapp3.1\characterXMLexporter.runtimeconfig.dev.json
+C:\Users\baletzler\Documents\GitHub\Wyvern-Quest-Character-Manager\characterXMLexporter\bin\Debug\netcoreapp3.1\characterXMLexporter.dll
+C:\Users\baletzler\Documents\GitHub\Wyvern-Quest-Character-Manager\characterXMLexporter\bin\Debug\netcoreapp3.1\characterXMLexporter.pdb
+C:\Users\baletzler\Documents\GitHub\Wyvern-Quest-Character-Manager\characterXMLexporter\obj\Debug\netcoreapp3.1\characterXMLexporter.dll
+C:\Users\baletzler\Documents\GitHub\Wyvern-Quest-Character-Manager\characterXMLexporter\obj\Debug\netcoreapp3.1\characterXMLexporter.pdb
+C:\Users\baletzler\Documents\GitHub\Wyvern-Quest-Character-Manager\characterXMLexporter\obj\Debug\netcoreapp3.1\characterXMLexporter.genruntimeconfig.cache
