@@ -8,7 +8,15 @@ namespace characterXMLimporter
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Type the file path");
+            string filePath = Console.ReadLine();
+            Character loadedPC = new Character(importXML(filePath));
 
+            Console.WriteLine("The loaded character's name is: ", loadedPC.getName());
+            Console.WriteLine("The loaded character's race is: ", loadedPC.getRace());
+            Console.WriteLine("The loaded character's class is: ", loadedPC.getClass());
+            Console.WriteLine("The loaded character's level is: ", loadedPC.getLevel());
+            Console.WriteLine("The loaded character's experience is: ", loadedPC.getExp());
         }
 
         static Character importXML(string filePath)
@@ -21,7 +29,9 @@ namespace characterXMLimporter
             //storage of values in case structure
             Dictionary<string, string> characterValues = new Dictionary<string, string>();
 
-            using (XmlReader reader = XmlReader.Create(@filePath))
+            XmlReaderSettings set = new XmlReaderSettings();
+            set.IgnoreWhitespace = true;
+            using (XmlReader reader = XmlReader.Create(@filePath, set))
             {
                 while (reader.Read())
                 {
@@ -45,7 +55,7 @@ namespace characterXMLimporter
                                 Console.WriteLine("Level: " + reader.ReadElementContentAsString());
                                 characterValues.Add("Level", reader.ReadElementContentAsString());
                                 break;
-                            case "Experience":
+                            case "XpPool":
                                 Console.WriteLine("Experience: " + reader.ReadElementContentAsString());
                                 characterValues.Add("Experience", reader.ReadElementContentAsString());
                                 break;

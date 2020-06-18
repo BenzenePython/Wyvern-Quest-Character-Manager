@@ -1,0 +1,13 @@
+C:\Users\baletzler\Documents\GitHub\Wyvern-Quest-Character-Manager\characterXMLimporter\bin\Debug\netcoreapp3.1\characterXMLimporter.exe
+C:\Users\baletzler\Documents\GitHub\Wyvern-Quest-Character-Manager\characterXMLimporter\bin\Debug\netcoreapp3.1\characterXMLimporter.deps.json
+C:\Users\baletzler\Documents\GitHub\Wyvern-Quest-Character-Manager\characterXMLimporter\bin\Debug\netcoreapp3.1\characterXMLimporter.runtimeconfig.json
+C:\Users\baletzler\Documents\GitHub\Wyvern-Quest-Character-Manager\characterXMLimporter\bin\Debug\netcoreapp3.1\characterXMLimporter.runtimeconfig.dev.json
+C:\Users\baletzler\Documents\GitHub\Wyvern-Quest-Character-Manager\characterXMLimporter\bin\Debug\netcoreapp3.1\characterXMLimporter.dll
+C:\Users\baletzler\Documents\GitHub\Wyvern-Quest-Character-Manager\characterXMLimporter\bin\Debug\netcoreapp3.1\characterXMLimporter.pdb
+C:\Users\baletzler\Documents\GitHub\Wyvern-Quest-Character-Manager\characterXMLimporter\obj\Debug\netcoreapp3.1\characterXMLimporter.csprojAssemblyReference.cache
+C:\Users\baletzler\Documents\GitHub\Wyvern-Quest-Character-Manager\characterXMLimporter\obj\Debug\netcoreapp3.1\characterXMLimporter.AssemblyInfoInputs.cache
+C:\Users\baletzler\Documents\GitHub\Wyvern-Quest-Character-Manager\characterXMLimporter\obj\Debug\netcoreapp3.1\characterXMLimporter.AssemblyInfo.cs
+C:\Users\baletzler\Documents\GitHub\Wyvern-Quest-Character-Manager\characterXMLimporter\obj\Debug\netcoreapp3.1\characterXMLimporter.csproj.CoreCompileInputs.cache
+C:\Users\baletzler\Documents\GitHub\Wyvern-Quest-Character-Manager\characterXMLimporter\obj\Debug\netcoreapp3.1\characterXMLimporter.dll
+C:\Users\baletzler\Documents\GitHub\Wyvern-Quest-Character-Manager\characterXMLimporter\obj\Debug\netcoreapp3.1\characterXMLimporter.pdb
+C:\Users\baletzler\Documents\GitHub\Wyvern-Quest-Character-Manager\characterXMLimporter\obj\Debug\netcoreapp3.1\characterXMLimporter.genruntimeconfig.cache
