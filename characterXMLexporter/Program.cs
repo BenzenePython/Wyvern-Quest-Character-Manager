@@ -26,8 +26,14 @@ namespace characterXMLexporter
                 fFilename = filename + ".xml";
             else
                 fFilename = filename;
-            
-            using (XmlWriter writer = XmlWriter.Create(fFilename))
+
+            XmlWriterSettings set = new XmlWriterSettings();
+            set.Indent = true;
+            set.IndentChars = ("     ");
+            set.CloseOutput = true;
+            set.OmitXmlDeclaration = true;
+
+            using (XmlWriter writer = XmlWriter.Create(fFilename, set))
             {
                 writer.WriteStartElement("Character");
                     writer.WriteElementString("Name", PC.getName());
