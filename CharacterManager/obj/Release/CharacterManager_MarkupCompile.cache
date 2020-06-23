@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\baletzler\Documents\GitHub\Wyvern-Quest-Character-Manager\CharacterManager\obj\Debug\
+C:\Users\baletzler\Documents\GitHub\Wyvern-Quest-Character-Manager\CharacterManager\obj\Release\
 CharacterManager
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Users\baletzler\Documents\GitHub\Wyvern-Quest-Character-Manager\CharacterManager\App.xaml
 1908908985
 
-8-2138083631
-151397803362
+5803458263
+13-1505183044
 LoadWindow.xaml;
 
-False
+True
 

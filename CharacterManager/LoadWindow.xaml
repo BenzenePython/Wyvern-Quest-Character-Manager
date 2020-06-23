@@ -12,9 +12,9 @@
         </Grid.ColumnDefinitions>
         <TextBlock HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="100" Width="773" TextAlignment="Center" FontWeight="Bold" FontSize="36"><Run Text="Wyvern Quest"/><LineBreak/><Run Text="Character Manager"/></TextBlock>
         <TextBlock HorizontalAlignment="Left" Margin="40,150,0,0" TextWrapping="Wrap" Text="Welcome to the Wyvern Quest Character Manager! This application is designed to replace a traditional pen and paper character sheet, including tracking health and inventory. Select an option on the right to begin. Happy Questing!" VerticalAlignment="Top" Width="369" Height="216" FontSize="22"/>
-        <Button x:Name="createCharButton" Content="Create Character" HorizontalAlignment="Left" Margin="530,150,0,0" VerticalAlignment="Top" Width="110" Click="Button_Click" Height="39"/>
-        <Button x:Name="loadCharButton" Content="Load Character" HorizontalAlignment="Left" Margin="530,233,0,0" VerticalAlignment="Top" Width="110" Height="39"/>
-        <Button x:Name="DMMButton" Content="DM Mode" HorizontalAlignment="Left" Margin="530,327,0,0" VerticalAlignment="Top" Width="110" Height="39" Click="Button_Click_1"/>
+        <Button x:Name="createCharButton" Content="Create Character" HorizontalAlignment="Left" Margin="530,150,0,0" VerticalAlignment="Top" Width="110" Click="Create_click" Height="39"/>
+        <Button x:Name="loadCharButton" Content="Load Character" HorizontalAlignment="Left" Margin="530,233,0,0" VerticalAlignment="Top" Width="110" Height="39" Click="Load_click"/>
+        <Button x:Name="DMMButton" Content="DM Mode" HorizontalAlignment="Left" Margin="530,327,0,0" VerticalAlignment="Top" Width="110" Height="39" Click="DM_click"/>
         <Label Content="This mode is under construction" HorizontalAlignment="Left" Margin="498,301,0,0" VerticalAlignment="Top" Foreground="#FFFF0202" FontWeight="Bold" FontStyle="Italic"/>
 
     </Grid>

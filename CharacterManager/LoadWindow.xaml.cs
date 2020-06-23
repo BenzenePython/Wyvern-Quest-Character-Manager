@@ -24,5 +24,22 @@ namespace CharacterManager
         {
             InitializeComponent();
         }
+
+        private void Create_click(object sender, RoutedEventArgs e)
+        {
+            Console.WriteLine("test successful.");
+        }
+
+        private void Load_click(object sender, RoutedEventArgs e)
+        {
+            Console.WriteLine("test successful.");
+
+        }
+
+        private void DM_click(object sender, RoutedEventArgs e)
+        {
+            Console.WriteLine("test successful.");
+
+        }
     }
 }
