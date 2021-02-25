@@ -65,6 +65,8 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Character.cs" />
+    <Compile Include="Race.cs" />
     <Compile Include="CreateForm.cs">
       <SubType>Form</SubType>
     </Compile>
