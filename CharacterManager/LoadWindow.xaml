@@ -16,6 +16,7 @@
         <Button x:Name="loadCharButton" Content="Load Character" HorizontalAlignment="Left" Margin="530,233,0,0" VerticalAlignment="Top" Width="110" Height="39" Click="Load_click"/>
         <Button x:Name="DMMButton" Content="DM Mode" HorizontalAlignment="Left" Margin="530,327,0,0" VerticalAlignment="Top" Width="110" Height="39" Click="DM_click"/>
         <Label Content="This mode is under construction" HorizontalAlignment="Left" Margin="498,301,0,0" VerticalAlignment="Top" Foreground="#FFFF0202" FontWeight="Bold" FontStyle="Italic"/>
+        <Button Content="Test" HorizontalAlignment="Left" Margin="693,218,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
 
     </Grid>
 </Window>

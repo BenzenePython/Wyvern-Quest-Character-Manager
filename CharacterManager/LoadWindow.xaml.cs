@@ -41,5 +41,10 @@ namespace CharacterManager
             Console.WriteLine("test successful.");
 
         }
+        //test button
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+               
+        }
     }
 }

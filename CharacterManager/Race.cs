@@ -12,7 +12,7 @@ namespace CharacterManager
         private String racePride;
         private String raceTalent;
         private String raceFlaw;
-        private String[] raceFeat = new String[2];
+        private String raceFeat;
         //TODO: add race stats
         private Dictionary<String, Dictionary<String, String>> talent = new Dictionary<string, Dictionary<string, string>>();
         private Dictionary<String, Dictionary<String, String>> flaw = new Dictionary<string, Dictionary<string, string>>();
@@ -24,14 +24,22 @@ namespace CharacterManager
             racePride = pride;
             raceTalent = (talent[race])[pride];
             raceFlaw = (talent[race])[pride];
-
+            raceFeat = chooseFeat(race, pride);
         }
 
-        String[] chooseFeat(String race, String pride)
+        String getName() { return String.Format(racePride + " " + raceName); }
+        String getTalent() { return raceTalent; }
+        String getFlaw() { return raceFlaw; }
+        String getFeat() { return raceFeat; }
+
+        //TODO: create interactive feat selection
+        String chooseFeat(String race, String pride)
         {
-            String[] featChoice = new string[2];
+            String featChoice;
             Console.WriteLine("Please choose a feat: 1, 2, or 3 -");
-            featChoice[0] = 
+            int input = 0; //options 1-3 they choose ; input = userinput - 1
+            featChoice = ((feat[race])[pride])[input];
+            return featChoice;
         }
     }
 }
